@@ -1,0 +1,9 @@
+Current:
+
+Pipeline is working for images, videos as well as webcam feed
+Getting good FPS
+
+To DO:
+
+Inlude FPS counting
+Try other models too for same pipeline
